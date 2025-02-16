@@ -1,1 +1,1 @@
-# C-PandorA
+# C++PandorA
